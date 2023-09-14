@@ -1,0 +1,30 @@
+learn module 8 in scalar JS well(Promises)
+
+
+
+Under miscellaneous(mudule 9): closures -> often asked in JS interviews
+
+
+
+FALSY VALUES
+fasle
+0
+-0
+bigint zero (0n)
+'',"", `` (empty string)
+null
+undefined
+NaN
+
+
+
+Primitive and reference Datatype
+
+//closures: Learn it well
+
+
+Empty element, let a, no return type(undefined)
+
+a = null, (null)
+
+console.log (b)(not defined)
