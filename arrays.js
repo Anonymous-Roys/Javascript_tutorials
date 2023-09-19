@@ -62,3 +62,4 @@ function reduceMethod() {
     }, 0)
     console.log(result);
 }
+
